@@ -9,23 +9,10 @@
     <!-- SEO -->
     {% seo %}
     
-    <!-- Professional Enterprise Theme CSS -->
-    <style>
-        :root {
-            --primary-blue: #1e3a8a;
-            --secondary-blue: #3b82f6;
-            --accent-gold: #f59e0b;
-            --dark-navy: #0f172a;
-            --light-gray: #f8fafc;
-            --medium-gray: #64748b;
-            --white: #ffffff;
-            --success-green: #10b981;
-            --gradient-primary: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%);
-            --gradient-accent: linear-gradient(135deg, #f59e0b 0%, #fbbf24 100%);
-            --shadow-soft: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
-            --shadow-medium: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
-            --shadow-large: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
-        }
+    <!-- Modern Professional CSS -->
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         
         * { margin: 0; padding: 0; box-sizing: border-box; }
         
@@ -399,6 +386,7 @@
             });
         });
     </script>
+    <script src="{{ '/assets/js/animations.js' | relative_url }}"></script>
 </head>
 <body>
     <header>
