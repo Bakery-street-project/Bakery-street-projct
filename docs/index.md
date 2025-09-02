@@ -17,42 +17,42 @@ description: "Revolutionary AI Research & Development Organization"
         <div class="research-card-icon">🧠</div>
         <h3 class="research-card-title">Neuromorphic Computing</h3>
         <p class="research-card-description">Brain-inspired AI architectures that revolutionize machine learning through biologically-plausible neural networks, enabling unprecedented efficiency and adaptability in artificial intelligence systems.</p>
-        <a href="#" class="research-card-link">Learn More</a>
+        <a href="https://github.com/Bakery-street-projct" class="research-card-link">Learn More</a>
     </div>
     
     <div class="research-card animate-stagger">
         <div class="research-card-icon">🏗️</div>
         <h3 class="research-card-title">Baker Street Laboratory</h3>
         <p class="research-card-description">Revolutionary AI-Augmented Research Ecosystem with 7/8 operational AI models providing comprehensive scientific analysis, automated research workflows, and intelligent data processing capabilities.</p>
-        <a href="#" class="research-card-link">Explore Lab</a>
+        <a href="https://github.com/Bakery-street-projct/Baker-Street-Laboratory" class="research-card-link">Explore Lab</a>
     </div>
     
     <div class="research-card animate-stagger">
         <div class="research-card-icon">📊</div>
         <h3 class="research-card-title">Dynamic Data Streamlining</h3>
         <p class="research-card-description">Advanced DYADS framework for real-time data processing and optimization, handling complex asynchronous data streams with enterprise-grade reliability and scalability.</p>
-        <a href="#" class="research-card-link">See Innovation</a>
+        <a href="https://github.com/Bakery-street-projct/dynamic-asynchronous-data-streamliner" class="research-card-link">See Innovation</a>
     </div>
     
     <div class="research-card animate-stagger">
         <div class="research-card-icon">🤖</div>
         <h3 class="research-card-title">Multi-Agent Systems</h3>
         <p class="research-card-description">Collaborative AI ecosystems where intelligent agents coordinate to solve complex problems, enabling distributed intelligence and autonomous decision-making at scale.</p>
-        <a href="#" class="research-card-link">Discover More</a>
+        <a href="https://github.com/Bakery-street-projct" class="research-card-link">Discover More</a>
     </div>
     
     <div class="research-card animate-stagger">
         <div class="research-card-icon">🏢</div>
         <h3 class="research-card-title">Enterprise AI Solutions</h3>
         <p class="research-card-description">Production-ready AI systems with comprehensive security, monitoring, and compliance frameworks designed for enterprise deployment and mission-critical applications.</p>
-        <a href="#" class="research-card-link">View Solutions</a>
+        <a href="https://github.com/Bakery-street-projct/ai-development-framework" class="research-card-link">View Solutions</a>
     </div>
     
     <div class="research-card animate-stagger">
         <div class="research-card-icon">🎯</div>
         <h3 class="research-card-title">Advanced NLP & Sentiment Analysis</h3>
         <p class="research-card-description">State-of-the-art natural language processing using transformer models and BERT architectures for understanding human communication and emotional intelligence.</p>
-        <a href="#" class="research-card-link">Try Demo</a>
+        <a href="https://github.com/Bakery-street-projct/sentiment-analysis-bert" class="research-card-link">Try Demo</a>
     </div>
 </div>
 
