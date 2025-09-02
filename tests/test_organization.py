@@ -132,7 +132,7 @@ class TestProjectStructure(unittest.TestCase):
         required_files = [
             "README.md",
             "requirements.txt",
-            "organization_logo.png"
+            "image.jpg"
         ]
         
         for file_name in required_files:
