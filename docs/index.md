@@ -1,5 +1,5 @@
 ---
-layout: modern
+layout: default
 title: "Home"
 description: "Revolutionary AI Research & Development Organization"
 ---
