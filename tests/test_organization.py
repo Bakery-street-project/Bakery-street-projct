@@ -17,7 +17,7 @@ class TestOrganizationProfile(unittest.TestCase):
         """Set up test environment"""
         self.base_path = Path(__file__).parent.parent
         self.readme_path = self.base_path / "README.md"
-        self.logo_path = self.base_path / "organization_logo.png"
+        self.logo_path = self.base_path / "image.jpg"
         
     def test_readme_exists(self):
         """Test that README.md exists and is readable"""

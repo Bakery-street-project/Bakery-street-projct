@@ -60,13 +60,13 @@ jobs:
         
     - name: Validate organization logo
       run: |
-        if [[ ! -f "organization_logo.png" ]]; then
-          echo "Error: Organization logo not found"
+        if [[ ! -f "image.jpg" ]]; then
+          echo "Error: Organization logo (image.jpg) not found"
           exit 1
         fi
         
         # Check logo file size (should be reasonable)
-        logo_size=$(wc -c < organization_logo.png)
+        logo_size=$(wc -c < image.jpg)
         if [[ $logo_size -lt 1000 ]]; then
           echo "Warning: Organization logo seems very small"
         fi
@@ -76,7 +76,7 @@ jobs:
     - name: Check project structure
       run: |
         # Check for essential files
-        for file in "README.md" "requirements.txt" "organization_logo.png"; do
+        for file in "README.md" "requirements.txt" "image.jpg"; do
           if [[ ! -f "$file" ]]; then
             echo "Error: Missing essential file: $file"
             exit 1

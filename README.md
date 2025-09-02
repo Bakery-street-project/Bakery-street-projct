@@ -1,4 +1,7 @@
-# 🏢 Bakery Street Project
+<div align="center">
+  <img src="image.jpg" alt="Bakery Street Project Logo" width="200" height="200">
+  <h1>🏢 Bakery Street Project</h1>
+</div>
 
 ## 🚀 Revolutionary AI Research & Development
 

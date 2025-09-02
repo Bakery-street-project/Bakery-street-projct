@@ -56,7 +56,7 @@
   "files": [
     "README.md",
     "requirements.txt",
-    "organization_logo.png",
+    "image.jpg",
     "tests/",
     ".github/"
   ],
