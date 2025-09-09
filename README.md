@@ -129,6 +129,12 @@ To democratize AI technology and make advanced automation accessible to organiza
 - Integration frameworks
 - Performance optimization
 
+#### **🏢 Enterprise GitHub Organization Setup**
+Transform your GitHub organization with our comprehensive enterprise readiness framework:
+- **[Enterprise Setup Playbook](docs/enterprise/github-organization-setup-playbook.md)** - Complete implementation guide
+- **[Readiness Checklist](docs/enterprise/enterprise-readiness-checklist.md)** - Step-by-step audit and setup checklist
+- **[Enterprise Documentation](docs/enterprise/)** - Full enterprise documentation suite
+
 ## 🤝 Community & Support
 
 ### **Open Source Commitment**

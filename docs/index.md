@@ -64,7 +64,18 @@ We advance artificial intelligence through rigorous research, open-source innova
 - **{{ area }}**: Pioneering breakthrough technologies in AI research
 {% endfor %}
 
-## Enterprise Partnerships
+## Enterprise Solutions
+
+### Enterprise GitHub Organization Setup
+
+Transform your GitHub organization into an enterprise-ready environment with our comprehensive guidance:
+
+- **[Enterprise Setup Playbook](enterprise/)**: Complete implementation guide for security, compliance, and operational excellence
+- **[Readiness Checklist](enterprise/enterprise-readiness-checklist.md)**: Step-by-step audit and implementation checklist
+- **[Security Controls](enterprise/github-organization-setup-playbook.md#security-controls)**: Advanced security configurations and best practices
+- **[Compliance Framework](enterprise/github-organization-setup-playbook.md#compliance-tasks)**: Audit logging, credential management, and privacy controls
+
+### Enterprise Partnerships
 
 Join leading organizations leveraging our AI research for competitive advantage:
 
