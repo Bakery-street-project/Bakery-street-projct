@@ -73,6 +73,13 @@ Join leading organizations leveraging our AI research for competitive advantage:
 - **Consulting Services**: Expert guidance on AI strategy and implementation
 - **Training Programs**: Upskill your team with the latest AI methodologies
 
+## 📚 Developer Resources
+
+Essential guides for development and onboarding:
+
+- **[VS Code Reset Guide]({{ '/guides/vscode-reset-guide' | relative_url }})**: Complete guide to reset VS Code to default settings
+- **[All Developer Guides]({{ '/guides' | relative_url }})**: Browse all available guides and tutorials
+
 <div style="text-align: center; margin: 48px 0;">
     <a href="{{ site.organization.github }}" class="btn">View Our Repositories</a>
     <a href="mailto:{{ site.organization.email }}" class="btn btn-secondary">Contact Our Team</a>
