@@ -25,6 +25,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:name/
+  guides:
+    output: true
+    permalink: /:collection/:name/
 
 # Defaults
 defaults:
@@ -39,6 +42,11 @@ defaults:
       type: "projects"
     values:
       layout: "project"
+  - scope:
+      path: ""
+      type: "guides"
+    values:
+      layout: "default"
 
 # Custom variables
 ai_focus_areas:
