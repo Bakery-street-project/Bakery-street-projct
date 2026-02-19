@@ -1,1 +1,15 @@
-docs/node_modules/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+.env
+node_modules/
+*.pem
+.env.local
